@@ -1,0 +1,9 @@
+newmtl b16b648f3e01_Light_oak_wooden_ch:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd b16b648f3e01_Light_oak_wooden_ch_texture_kd.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
