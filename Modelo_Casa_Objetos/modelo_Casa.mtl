@@ -162,357 +162,339 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd tela_silla.png
 Ni 1.00
-newmtl objeto02_sofa:lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.70 0.70 0.70
-Tf 1.00 1.00 1.00
-map_Kd textura_cobija.png
-Ni 1.00
-newmtl objeto02_sofa:lambert3SG
+newmtl objeto02_sofa1:phong3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd textura_sillon.png
+map_Kd tela_sillon.png
 Ni 1.00
-newmtl objeto02_sofa:lambert4SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto02_sofa1:phong4SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd textura_almohada.png
+map_Kd pies_sillon.png
 Ni 1.00
-newmtl objeto02_sofa:lambert5SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto02_sofa1:phong5SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd textura_madera.png
+map_Kd almohada_sillon.png
 Ni 1.00
-newmtl objeto02_sofa:lambert6SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto02_sofa2:phong3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd textura_pies.png
+map_Kd tela_sillon.png
 Ni 1.00
-newmtl objeto02_sofa:wire_135059008
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto02_sofa2:phong4SG
 illum 4
-Kd 0.53 0.23 0.03
-Ka 0.53 0.23 0.03
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd pies_sillon.png
 Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
-newmtl objeto02_sofa:wire_135059010
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto02_sofa2:phong5SG
 illum 4
-Kd 0.53 0.23 0.03
-Ka 0.53 0.23 0.03
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd almohada_sillon.png
 Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
-newmtl objeto03_librero:lambert2SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto03_librero2:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_libro01.png
+Ni 1.00
+newmtl objeto03_librero2:lambert2SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_librero.png
 Ni 1.00
-newmtl objeto03_librero:lambert3SG
+newmtl objeto03_librero2:lambert3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_ovillo.png
 Ni 1.00
-newmtl objeto03_librero:lambert4SG
+newmtl objeto03_librero2:lambert4SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_ovillo.png
 Ni 1.00
-newmtl objeto03_librero1:initialShadingGroup
+newmtl objeto03_librero2:lambert5SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_112.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:lambert2SG
+newmtl objeto03_librero2:lambert6SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Bookshelf_BaseColor.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:lambert3SG
+newmtl objeto03_librero2:lambert7SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Bookshelf_Roughness.png
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:lambert4SG
+newmtl objeto03_librero2:pasted__lambert5SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Bookshelf_Roughness.png
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:lambert5SG
+newmtl objeto03_librero2:pasted__lambert5SG1
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:lambert6SG
+newmtl objeto03_librero2:pasted__lambert5SG2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:lambert7SG
+newmtl objeto03_librero2:pasted__lambert5SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert5SG
+newmtl objeto03_librero2:pasted__lambert6SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert5SG1
+newmtl objeto03_librero2:pasted__lambert6SG2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert5SG2
+newmtl objeto03_librero2:pasted__lambert6SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert5SG3
+newmtl objeto03_librero2:pasted__lambert6SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert6SG
+newmtl objeto03_librero2:pasted__lambert6SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert6SG2
+newmtl objeto03_librero2:pasted__lambert7SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert6SG3
+newmtl objeto03_librero2:pasted__lambert7SG2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert6SG4
+newmtl objeto03_librero2:pasted__lambert7SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert6SG6
+newmtl objeto03_librero2:pasted__lambert7SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert7SG
+newmtl objeto03_librero2:pasted__lambert7SG8
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert7SG2
+newmtl objeto03_librero2:pasted__pasted__lambert5SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert7SG4
+newmtl objeto03_librero2:pasted__pasted__lambert5SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert7SG6
+newmtl objeto03_librero2:pasted__pasted__lambert5SG5
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__lambert7SG8
+newmtl objeto03_librero2:pasted__pasted__lambert6SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert5SG
+newmtl objeto03_librero2:pasted__pasted__lambert6SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert5SG3
+newmtl objeto03_librero2:pasted__pasted__lambert6SG7
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert5SG5
+newmtl objeto03_librero2:pasted__pasted__lambert7SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert6SG3
+newmtl objeto03_librero2:pasted__pasted__lambert7SG5
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert6SG4
+newmtl objeto03_librero2:pasted__pasted__lambert7SG7
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert6SG7
+newmtl objeto03_librero2:pasted__pasted__pasted__lambert5SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert7SG3
+newmtl objeto03_librero2:pasted__pasted__pasted__lambert5SG5
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert7SG5
+newmtl objeto03_librero2:pasted__pasted__pasted__lambert6SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__lambert7SG7
+newmtl objeto03_librero2:pasted__pasted__pasted__lambert6SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__lambert5SG3
+newmtl objeto03_librero2:pasted__pasted__pasted__lambert7SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__lambert5SG5
+newmtl objeto03_librero2:pasted__pasted__pasted__lambert7SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
+map_Kd textura_libro04.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__lambert6SG4
+newmtl objeto03_librero2:pasted__pasted__pasted__pasted__lambert5SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__lambert6SG6
+newmtl objeto03_librero2:pasted__pasted__pasted__pasted__lambert5SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
+map_Kd textura_libro02.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__lambert7SG4
+newmtl objeto03_librero2:pasted__pasted__pasted__pasted__lambert6SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro03.png
 Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__lambert7SG6
+newmtl objeto03_librero2:pasted__pasted__pasted__pasted__lambert7SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
-Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__pasted__lambert5SG3
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
-Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__pasted__lambert5SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_85.png
-Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__pasted__lambert6SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd «í½«ª¬¿-ßÔáÓÙÕ-¬¡¿ú_57.jpg
-Ni 1.00
-newmtl objeto03_librero1:pasted__pasted__pasted__pasted__lambert7SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd books_texture3009.jpg
+map_Kd textura_libro04.png
 Ni 1.00
 newmtl objeto04_escritorio:lambert2SG
 illum 4
@@ -535,3 +517,86 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_escritorio.png
 Ni 1.00
+newmtl objeto05_biombo:PhysicalMaterial
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl objeto05_biombo:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapiz_biombo_02.png
+Ni 1.00
+newmtl objeto05_biombo:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapiz_biombo_03.png
+Ni 1.00
+newmtl objeto05_biombo:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapiz_biombo_04.png
+Ni 1.00
+newmtl objeto05_biombo:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_Biombo.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto05_biombo:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chimenea_exterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto05_biombo:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapiz_biombo_01.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto05_biombo:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_Biombo.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto05_biombo:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd reja_madera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl objeto05_biombo:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd imagen_luces.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
