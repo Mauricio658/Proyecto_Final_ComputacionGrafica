@@ -5,6 +5,9 @@ Ka 0.84 0.84 0.84
 Tf 1.00 1.00 1.00
 map_Kd textura_ventana.png
 Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_madera.png
+Ns 18.00
 newmtl modelo_Casa:lambert6SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -12,6 +15,9 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_ventana.png
 Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_madera.png
+Ns 18.00
 newmtl modelo_Casa:lambert7SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -19,6 +25,9 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_paredes.png
 Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_paredes.png
+Ns 18.00
 newmtl modelo_Casa:lambert8SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -26,6 +35,9 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_columna_tejado.png
 Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_columna.png
+Ns 18.00
 newmtl modelo_Casa:lambert9SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -33,7 +45,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_tejado.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_tejado.png
 Ns 18.00
 newmtl modelo_Casa:pasted__lambert6SG1
 illum 4
@@ -42,6 +55,9 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_ventana.png
 Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_madera.png
+Ns 18.00
 newmtl modelo_Casa:phong1SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -49,7 +65,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_piso.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_piso.png
 Ns 18.00
 newmtl modelo_Casa:phong2SG
 illum 4
@@ -58,7 +75,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd piso_interior.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_piso_interior.png
 Ns 18.00
 newmtl modelo_Casa:phong4SG
 illum 4
@@ -76,7 +94,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_columnas.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_columna_madera.png
 Ns 18.00
 newmtl modelo_Casa:phong7SG
 illum 4
@@ -85,7 +104,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_columna_tejado.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_columna.png
 Ns 18.00
 newmtl modelo_Casa:phong8SG
 illum 4
@@ -94,7 +114,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_vidrio_ventana.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_vidrio.png
 Ns 18.00
 newmtl modelo_Casa:phong9SG
 illum 4
@@ -112,7 +133,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_puerta.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_puerta.png
 Ns 18.00
 newmtl modelo_Casa:phong11SG
 illum 4
@@ -121,7 +143,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_tejado.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_tejado.png
 Ns 18.00
 newmtl modelo_Casa:phong13SG
 illum 4
@@ -130,7 +153,8 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd textura_tejado.png
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks especular_tejado.png
 Ns 18.00
 newmtl modelo_Casa:phong14SG
 illum 4
