@@ -1,2 +1,2 @@
 # Proyecto_Final_ComputacionGrafica
-Hola
+Este repositorio es para llevar el versionamiento de mis modelos a utilizar.
