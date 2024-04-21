@@ -126,16 +126,6 @@ map_Kd textura_vidrio_ventana.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
-newmtl modelo_Casa:phong10SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd textura_puerta.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks especular_puerta.png
-Ns 18.00
 newmtl modelo_Casa:phong11SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -164,4 +154,63 @@ Tf 1.00 1.00 1.00
 map_Kd textura_ventana.png
 Ni 1.00
 Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_paredes_interiores.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_paredes.png
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_vidrio_ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_vidrio.png
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_vidrio.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_vidrio.png
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_pilares.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_columna.png
+Ns 18.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_pilares.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_puerta.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_puerta.png
 Ns 18.00
