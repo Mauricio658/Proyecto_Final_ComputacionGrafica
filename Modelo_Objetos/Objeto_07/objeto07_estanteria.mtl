@@ -6,14 +6,6 @@ Tf 1.00 1.00 1.00
 Ni 1.52
 Ks 1.00 1.00 1.00
 Ns 0.06
-newmtl EstanteriaVacia1:Woods___Plastics
-illum 4
-Kd 0.25 0.18 0.13
-Ka 0.40 0.40 0.40
-Tf 1.00 1.00 1.00
-Ni 1.52
-Ks 0.50 0.50 0.50
-Ns 0.06
 newmtl phong2SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -74,3 +66,53 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks especular_envase.png
 Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd fondo_olla.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_madera.png
+Ns 0.06
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd reja_madera.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks especular_reja.png
+Ns 0.06
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd pies_estufa.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks especular_ventana_madera.png
+Ns 0.06
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd superior_estufa.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks especular_pies_sillon.png
+Ns 0.06
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd cuerpo_estufa.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks especular_madera_silla.png
+Ns 0.06
