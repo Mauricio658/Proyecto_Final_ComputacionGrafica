@@ -1,3 +1,9 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
 newmtl objeto01_Silla:pasted__lambert3SG1
 illum 4
 Kd 0.00 0.00 0.00
@@ -178,6 +184,71 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks especular_tela_silla.png
 Ns 18.00
+newmtl pasted__FBXASC051DGeomFBXASC1261FBXASC032FBXASC040CFBXASC0453DGeomFBXASC1261_DefintionFBXASC03510FBXASC041SG
+illum 4
+Kd 0.45 0.99 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.25 0.03
+Ns 23.00
+newmtl pasted__FBXASC051DGeomFBXASC1269FBXASC032FBXASC040CFBXASC0453DGeomFBXASC1269_DefintionFBXASC0354FBXASC041SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl pasted__phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_plato.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_piso_interior.png
+Ns 18.00
+newmtl pasted__phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_plato.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_tapiz.png
+Ns 18.00
+newmtl pasted__phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_plato.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_reja_madera.png
+Ns 18.00
+newmtl pasted__phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_estrellas.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl pasted__phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd reja_madera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_partearriba.png
+Ns 18.00
 newmtl phong1SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -217,4 +288,53 @@ map_Kd textura_flama.png
 Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks especular_hoja.png
+Ns 18.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_plato.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_piso_interior.png
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_plato.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_tapiz.png
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_plato.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_reja_madera.png
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_estrellas.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd reja_madera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_partearriba.png
 Ns 18.00

@@ -6,6 +6,46 @@ Tf 1.00 1.00 1.00
 Ni 1.52
 Ks 1.00 1.00 1.00
 Ns 0.06
+newmtl pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.24 0.24 0.24
+Tf 0.99 0.99 0.99
+map_Kd madera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_madera_chimenea.png
+Ns 18.00
+newmtl pasted__pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_pollo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_pollo.png
+Ns 18.00
+newmtl pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_pollo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_pollo.png
+Ns 18.00
+newmtl pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_pollo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_pollo.png
+Ns 18.00
 newmtl phong2SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -66,16 +106,6 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks especular_envase.png
 Ns 18.00
-newmtl phong8SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.40 0.40 0.40
-Tf 1.00 1.00 1.00
-map_Kd fondo_olla.png
-Ni 1.50
-Ks 0.00 0.00 0.00
-map_Ks especular_ventana_madera.png
-Ns 0.06
 newmtl phong9SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -116,3 +146,32 @@ Ni 1.50
 Ks 0.00 0.00 0.00
 map_Ks especular_madera_silla.png
 Ns 0.06
+newmtl phong22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_aceite.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_piso_interior.png
+Ns 18.00
+newmtl phong23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_humo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_tela_silla.png
+Ns 18.00
+newmtl phong24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_flama.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
