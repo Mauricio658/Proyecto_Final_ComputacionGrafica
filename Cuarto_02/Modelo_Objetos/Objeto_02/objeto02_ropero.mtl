@@ -1,0 +1,40 @@
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 20130819051830593243.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_madera_chimenea.png
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_candelero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_pilares_marco.png
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 20130819051830593761.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_reja_madera.png
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_candelero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_vela.png
+Ns 18.00

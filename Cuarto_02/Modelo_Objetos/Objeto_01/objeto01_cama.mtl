@@ -1,0 +1,79 @@
+newmtl Model__1_:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_colchon.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_pies_sillon.png
+Ns 18.00
+newmtl pasted__phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_marco_exterior.png
+Ns 18.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_madera_cama.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_madera_chimenea.png
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_madera_cama.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_madera_chimenea.png
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_cabecera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_librero.png
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_marco_exterior.png
+Ns 18.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_cobija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks especular_pies_sillon.png
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura_almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
