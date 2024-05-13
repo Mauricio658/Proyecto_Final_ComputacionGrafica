@@ -3,7 +3,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd 20130819051830593243.jpg
+map_Kd textura_mueble.png
 Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks especular_madera_chimenea.png
@@ -23,7 +23,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd 20130819051830593761.jpg
+map_Kd textura_mueble_02.png
 Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks especular_reja_madera.png
